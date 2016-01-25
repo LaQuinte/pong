@@ -1,0 +1,5 @@
+# Everything but the code ;)
+.classpath
+.project
+.settings/
+bin/
