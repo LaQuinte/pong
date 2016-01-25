@@ -1,5 +1,7 @@
 # Everything but the code ;)
+.DS_Store
 .classpath
 .project
 .settings/
+.git/
 bin/
